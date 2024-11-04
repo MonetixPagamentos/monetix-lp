@@ -1,6 +1,6 @@
 import Aos from "aos";
 import { pricingInfo } from "../../Data";
-import "./Informations.scss";
+import "./informations.scss";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 
