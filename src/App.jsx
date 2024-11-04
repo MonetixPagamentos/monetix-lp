@@ -7,7 +7,7 @@ import Earnings from "./components/earnings/Earnings"
 import Aprovation from "./components/aprovation/Aprovation"
 import Antecipation from "./components/antecipation/Antecipation"
 import Estrutura from "./components/estrutura/Estrutura"
-import Integration from "./components/integration/Integration"
+import Integration from "./components/Integration/Integration"
 import Subscribe from "./components/subscribe/Subscribe"
 import Footer from "./components/footer/Footer"
 
