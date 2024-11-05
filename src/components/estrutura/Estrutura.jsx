@@ -15,12 +15,11 @@ const Estrutura = () => {
     <section className="estrutura">
       <div className="estrutura__container wrapper">
         <div className="estrutura__left" data-aos="fade-right">
-          <h2>Uma fintech Inovadora</h2>
+          <h2>Uma fintech inovadora!</h2>
           <p>
-            Temos uma equipe qualificada, motivada e empenhada a trabalhar para 
-            tornar seus ganhos, disponibilizando as melhores taxas e soluções 
-            que a tecnologia poem entregar atualmente. Conheça nossa estrutura 
-            e entenda os beneficios de se juntar a nós.
+          Contamos com uma equipe qualificada, motivada e dedicada a maximizar seus ganhos,
+          oferecendo as melhores taxas e soluções que a tecnologia pode proporcionar.
+          Conheça nossa estrutura e descubra os benefícios de se juntar a nós!
           </p>
           <a href="#" className="btn">Entada nossa proposta</a>
         </div>

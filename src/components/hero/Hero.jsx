@@ -17,14 +17,13 @@ const Hero = () => {
       </div>
 
       <div className="hero__rigth">
-        <h1>Soluções de pagamentos para seu negocio</h1>
+        <h1>Simplifique seus pagamentos com segurança e agilidade!</h1>
         <p>
-          Facilite seus pagamentos com segurança e rapidez! 
-          Nosso site de pagamento online oferece uma plataforma simples e confiável 
-          para que você realize suas transações financeiras de forma ágil, 
-          24 horas por dia. Seja para compras, cobranças ou transferências, 
-          garantimos total proteção dos seus dados e transparência em cada etapa do processo. 
-          Experimente uma nova maneira de gerir seus pagamentos com praticidade e confiança!
+        Nosso site de pagamentos online oferece uma plataforma prática e confiável,
+        permitindo que você faça transações financeiras de forma rápida e segura,
+        24 horas por dia. Para compras, cobranças ou transferências,
+        garantimos a proteção completa dos seus dados e transparência em cada etapa do processo.
+        Experimente uma maneira mais fácil e segura de gerenciar seus pagamentos!
         </p>
         <a href="#" className="btn">Contrate Agora</a>
       </div>

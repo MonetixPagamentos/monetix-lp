@@ -19,9 +19,9 @@ const Earnings = () => {
         </div>
 
         <div className="aprovation__right" data-aos="zoom-in-up">
-          <h2>Liberação de conta com auto indice de Aprovação.</h2>
+          <h2>Liberação de conta com alto índice de aprovação!</h2>
           <p>
-            Nosso métodos de liberação de conta não eficases e garantidos.
+            Nossos métodos de liberação de conta são eficientes e garantidos, proporcionando uma experiência rápida e segura para todos os nossos clientes.
           </p>
           <a href="#" className="btn">Comece Agora</a>
         </div>

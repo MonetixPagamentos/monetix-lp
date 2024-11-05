@@ -14,7 +14,7 @@ const Informations = () => {
 
   return (
     <section className="informations">
-      <h2 data-aos="fade-right"> A Melhor solução de pagamento Onlinae</h2>
+      <h2 data-aos="fade-right"> A Melhor solução de pagamento Online!</h2>
       <div className="informations__container wrapper">
         {
           pricingInfo.map(({image, name, price}) =>(

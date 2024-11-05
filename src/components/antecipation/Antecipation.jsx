@@ -19,9 +19,9 @@ const Earnings = () => {
         </div>
 
         <div className="antecipation__right" data-aos="zoom-in-up">
-          <h2>Antecipação com liberação avaliada automaticamente</h2>
+          <h2>Antecipação com liberação automática avaliada em segundos!</h2>
           <p>
-            Contamos com processos automaticos de liberação de antecipação..
+            Contamos com processos automatizados para aprovação rápida e prática das suas solicitações de antecipação.
           </p>
           <a href="#" className="btn">Entenda melhor</a>
         </div>

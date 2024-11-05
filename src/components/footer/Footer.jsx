@@ -48,6 +48,7 @@ const Footer = () => {
           <a href="#">FAQs</a>
           <a href="#">Suporte</a>
           <a href="#">Nosso contato</a>
+          <a href="../../../politica.html">Política de cancelamento</a>
         </div>
 
         <div className="footer__col">
@@ -58,10 +59,10 @@ const Footer = () => {
             <a href="#" className="footer__icon">
               <FaFacebookF/>
             </a>
-            <a href="#" className="footer__icon">
+            <a href="https://www.instagram.com/monetixpagamentos" className="footer__icon">
               <FaInstagram/>
             </a>
-            <a href="#" className="footer__icon">
+            <a href="https://www.linkedin.com/company/monetix-pagamentos/" className="footer__icon">
               <FaLinkedinIn/>
             </a>
             <a href="#" className="footer__icon">

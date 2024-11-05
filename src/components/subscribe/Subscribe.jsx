@@ -13,13 +13,12 @@ const Subscribe = () => {
       <div className="subscribe__container wrapper">
         <h2 data-aos="fade-right">Deixe seu email para receber as novidades.</h2>
         <p data-aos="fade-left">
-          Nossas tecnologias estão em contante mudanças,
-          acompanhe nossa NewLester,
-          para ficar por dentro das novidades.
+          Nossas tecnologias estão em constante mudanças,
+          acompanhe-nos para ficar por dentro das novidades.
         </p>
         <form action="#" data-aos="fade-up">
           <input type="email" placeholder="Digite seu email" />
-          <a href="#" className="btn">Increver-se</a>
+          <a href="#" className="btn">Inscrever-se</a>
         </form>
       </div>
     </section>

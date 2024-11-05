@@ -19,9 +19,9 @@ const Earnings = () => {
         </div>
 
         <div className="earnings__right" data-aos="zoom-in-up">
-          <h2> Acompanhe seus ganhos com painel intuitivo</h2>
+          <h2>Acompanhe seus ganhos com um painel intuitivo!</h2>
           <p>
-            Nossa plataforma garante para você, atualizações em tempo real dos ganhos.
+            Nossa plataforma oferece atualizações em tempo real sobre seus ganhos, garantindo que você tenha sempre uma visão clara e precisa de sua performance financeira.
           </p>
           <a href="#" className="btn">Comece Agora</a>
         </div>
