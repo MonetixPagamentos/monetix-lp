@@ -11,14 +11,13 @@ import Integration from "./components/Integration/Integration";
 import Subscribe from "./components/subscribe/Subscribe";
 import Footer from "./components/footer/Footer";
 import Politica from "./pages/politica";
-import Sobre from "./pages/sobre"; 
+import Sobre from "./pages/sobre";
 
 function App() {
   return (
     <>
       <Navbar />
       <Routes>
-        {/* Rota principal (página inicial) */}
         <Route
           path="/"
           element={
@@ -35,9 +34,7 @@ function App() {
             </>
           }
         />
-        {/* Rota para a Política de Cancelamento */}
         <Route path="/politica-de-cancelamento" element={<Politica />} />
-        {/* Rota para a página Sobre Nós */}
         <Route path="/sobre-nos" element={<Sobre />} />
       </Routes>
       <Footer />
