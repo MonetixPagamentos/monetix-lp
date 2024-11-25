@@ -1,5 +1,5 @@
 import React from "react";
-import "./Politica.scss";
+import "./politica.scss";
 
 const Politica = () => {
   return (
