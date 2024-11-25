@@ -21,7 +21,7 @@ const Estrutura = () => {
           oferecendo as melhores taxas e soluções que a tecnologia pode proporcionar.
           Conheça nossa estrutura e descubra os benefícios de se juntar a nós!
           </p>
-          <a href="#" className="btn">Entada nossa proposta</a>
+          {/* <a href="#" className="btn">Entenda nossa proposta</a> */}
         </div>
 
         <div className="estrutura__right" data-aos="fade-up">

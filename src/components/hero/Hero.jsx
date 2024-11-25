@@ -25,7 +25,7 @@ const Hero = () => {
         garantimos a proteção completa dos seus dados e transparência em cada etapa do processo.
         Experimente uma maneira mais fácil e segura de gerenciar seus pagamentos!
         </p>
-        <a href="#" className="btn">Contrate Agora</a>
+        {/* <a href="#" className="btn">Contrate Agora</a> */}
       </div>
     </div>
   </section>

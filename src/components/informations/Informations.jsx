@@ -22,7 +22,7 @@ const Informations = () => {
               <img src={image} alt={name} />
               <h3>{name}</h3>
               <span>{price}</span>
-              <a href="#" className="btn">Entenda mais.</a>
+              {/* <a href="#" className="btn">Entenda mais.</a> */}
             </div>
           ))
         }

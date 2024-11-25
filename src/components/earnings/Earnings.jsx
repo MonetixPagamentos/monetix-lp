@@ -23,7 +23,7 @@ const Earnings = () => {
           <p>
             Nossa plataforma oferece atualizações em tempo real sobre seus ganhos, garantindo que você tenha sempre uma visão clara e precisa de sua performance financeira.
           </p>
-          <a href="#" className="btn">Comece Agora</a>
+          {/* <a href="#" className="btn">Comece Agora</a> */}
         </div>
       </div>
     </section>

@@ -23,7 +23,7 @@ const Earnings = () => {
           <p>
             Contamos com processos automatizados para aprovação rápida e prática das suas solicitações de antecipação.
           </p>
-          <a href="#" className="btn">Entenda melhor</a>
+          {/* <a href="#" className="btn">Entenda melhor</a> */}
         </div>
       </div>
     </section>

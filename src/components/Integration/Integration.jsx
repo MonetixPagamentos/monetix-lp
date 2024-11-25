@@ -20,7 +20,7 @@ const Estrutura = () => {
             Oferecemos soluções de pagamento com as principais bandeiras de cartões,
             além das melhores taxas do mercado, garantindo confiança e qualidade em nossos serviços.
           </p>
-          <a href="#" className="btn">Contrate agora!</a>
+          {/* <a href="#" className="btn">Contrate agora!</a> */}
         </div>
 
         <div className="integration__right" data-aos="fade-up">

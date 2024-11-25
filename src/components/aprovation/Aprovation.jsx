@@ -23,7 +23,7 @@ const Earnings = () => {
           <p>
             Nossos métodos de liberação de conta são eficientes e garantidos, proporcionando uma experiência rápida e segura para todos os nossos clientes.
           </p>
-          <a href="#" className="btn">Comece Agora</a>
+          {/* <a href="#" className="btn">Comece Agora</a> */}
         </div>
       </div>
     </section>

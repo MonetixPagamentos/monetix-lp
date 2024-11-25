@@ -1,0 +1,41 @@
+.sobre-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    line-height: 1.6;
+    font-family: Arial, sans-serif;
+    color: #e0e0e0; /* Texto claro para fundo escuro */
+  
+    h1, h2 {
+      color: #1db954; /* Cor verde destaque */
+    }
+  
+    h1 {
+      font-size: 2em;
+      margin-bottom: 20px;
+    }
+  
+    h2 {
+      font-size: 1.5em;
+      margin-top: 20px;
+    }
+  
+    p {
+      margin: 10px 0;
+    }
+  
+    ul {
+      margin: 10px 0;
+      padding-left: 20px;
+  
+      li {
+        margin-bottom: 10px;
+  
+        .highlight {
+          font-weight: bold;
+          color: #fff; /* Destaque em texto branco */
+        }
+      }
+    }
+  }

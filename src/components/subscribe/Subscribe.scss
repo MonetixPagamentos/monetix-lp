@@ -26,13 +26,15 @@
 
   form {
     display: flex;
+    align-items: center; /* Centraliza verticalmente os itens */
     padding: 0.5rem;
     border-radius: 0.5rem;
     background: var(--black);
     width: fit-content;
     margin-inline: auto;
-    gap: 8rem;
-    border:  2px solid var(--black-olive);
+    gap: 1rem; /* Ajusta o espaço entre o input e o botão */
+    margin-top: 2rem;
+    border: 2px solid var(--black-olive);
 
     @include respond(phone) {
       gap: 1rem;
@@ -41,8 +43,10 @@
 
   input {
     background: transparent;
+    padding: 1rem;
     border: none;
-    padding-left: 1rem;
+    flex: 1; /* Permite que o input ocupe todo o espaço disponível */
+    min-width: 200px; /* Define um tamanho mínimo para o input */
     color: var(--culture);
   }
 }
